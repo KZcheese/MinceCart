@@ -1,0 +1,8 @@
+authtoken: 2DLE5ZKJ9ydSTwLbeD9Re_uMBMwz33ZjHgLGK5AHPc
+tunnels:
+  minecraft:
+    proto: tcp
+    addr: 25565
+  ssh:
+    proto: tcp
+    addr: 22
