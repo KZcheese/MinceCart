@@ -1,5 +1,5 @@
 {
-  "canGenerateRivers": true,
+  "canGenerateRivers": false,
   "beachBiomeLocation": "minecraft:beaches",
   "skyColor": -1,
   "fogDensity": 1.0,
@@ -22,14 +22,15 @@
   },
   "averageHeight": 70.0,
   "topBlock": {
-    "block": "minecraft:grass",
+    "block": "minecraft:dirt",
     "properties": {
-      "snowy": "false"
+      "snowy": "false",
+      "variant": "podzol"
     }
   },
   "fogColor": -1,
   "canGenerateVillages": false,
-  "canSpawnInBiome": true,
+  "canSpawnInBiome": false,
   "generators": {
     "glowshrooms": {
       "with": {
@@ -50,13 +51,8 @@
         }
       },
       "generationAttempts": 64,
-      "amountPerChunk": 0.8,
+      "amountPerChunk": 0.3,
       "enable": true
-    },
-    "flowers": {
-      "amountPerChunk": 0.5,
-      "enable": true,
-      "generators": {}
     },
     "miners_delight": {
       "with": {
@@ -91,12 +87,33 @@
       "amountPerChunk": 0.3,
       "enable": true
     },
+    "double_fern": {
+      "with": {
+        "block": "minecraft:double_plant",
+        "properties": {
+          "facing": "north",
+          "half": "lower",
+          "variant": "double_fern"
+        }
+      },
+      "generationAttempts": 32,
+      "amountPerChunk": 8.0,
+      "enable": true,
+      "withTop": {
+        "block": "minecraft:double_plant",
+        "properties": {
+          "facing": "north",
+          "half": "upper",
+          "variant": "sunflower"
+        }
+      }
+    },
     "brown_mushrooms": {
       "with": {
         "block": "minecraft:brown_mushroom",
         "properties": {}
       },
-      "generationAttempts": 32,
+      "generationAttempts": 16,
       "amountPerChunk": 0.2,
       "enable": true
     },
@@ -139,43 +156,21 @@
       "enable": true
     },
     "trees": {
-      "amountPerChunk": 17.0,
+      "amountPerChunk": 10.0,
       "enable": true,
       "generators": {}
-    },
-    "sand": {
-      "with": {
-        "block": "minecraft:sand",
-        "properties": {
-          "variant": "sand"
-        }
-      },
-      "maxRadius": 7,
-      "amountPerChunk": 3.0,
-      "enable": true
     },
     "grass": {
-      "amountPerChunk": 2.0,
+      "amountPerChunk": 8.0,
       "enable": true,
       "generators": {}
-    },
-    "bushes": {
-      "with": {
-        "block": "biomesoplenty:plant_0",
-        "properties": {
-          "variant": "bush"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 0.7,
-      "enable": true
     },
     "red_mushrooms": {
       "with": {
         "block": "minecraft:red_mushroom",
         "properties": {}
       },
-      "generationAttempts": 32,
+      "generationAttempts": 16,
       "amountPerChunk": 0.1,
       "enable": true
     }

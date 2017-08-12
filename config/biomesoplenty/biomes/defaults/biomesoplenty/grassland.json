@@ -97,7 +97,7 @@
           "variant": "portobello"
         }
       },
-      "generationAttempts": 32,
+      "generationAttempts": 16,
       "amountPerChunk": 0.3,
       "enable": true
     },

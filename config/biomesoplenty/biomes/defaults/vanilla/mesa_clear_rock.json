@@ -19,12 +19,12 @@
           "variant": "tinycactus"
         }
       },
-      "generationAttempts": 32,
-      "amountPerChunk": 0.2,
+      "generationAttempts": 16,
+      "amountPerChunk": 0.1,
       "enable": true
     },
     "flowers": {
-      "amountPerChunk": 0.2,
+      "amountPerChunk": 0.1,
       "enable": true,
       "generators": {}
     },
@@ -73,7 +73,7 @@
         }
       },
       "generationAttempts": 8,
-      "amountPerChunk": 0.5,
+      "amountPerChunk": 0.3,
       "enable": true
     },
     "ruby": {

@@ -54,19 +54,8 @@
       "amountPerChunk": 0.3,
       "enable": true
     },
-    "cattail": {
-      "with": {
-        "block": "biomesoplenty:plant_1",
-        "properties": {
-          "variant": "cattail"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 2.0,
-      "enable": true
-    },
     "flowers": {
-      "amountPerChunk": 0.5,
+      "amountPerChunk": 0.3,
       "enable": true,
       "generators": {}
     },
@@ -89,7 +78,7 @@
         }
       },
       "generationAttempts": 32,
-      "amountPerChunk": 1.0,
+      "amountPerChunk": 0.7,
       "enable": true
     },
     "shrubs": {
@@ -108,7 +97,7 @@
         "block": "minecraft:brown_mushroom",
         "properties": {}
       },
-      "generationAttempts": 32,
+      "generationAttempts": 16,
       "amountPerChunk": 0.2,
       "enable": true
     },
@@ -173,7 +162,7 @@
           "variant": "toadstool"
         }
       },
-      "generationAttempts": 32,
+      "generationAttempts": 16,
       "amountPerChunk": 0.3,
       "enable": true
     },
@@ -206,7 +195,7 @@
         }
       },
       "generationAttempts": 32,
-      "amountPerChunk": 0.2,
+      "amountPerChunk": 0.1,
       "enable": true,
       "withTop": {
         "block": "biomesoplenty:double_plant",
@@ -216,32 +205,10 @@
         }
       }
     },
-    "berry_bushes": {
-      "with": {
-        "block": "biomesoplenty:plant_0",
-        "properties": {
-          "variant": "berrybush"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 0.1,
-      "enable": true
-    },
     "grass": {
-      "amountPerChunk": 1.6,
+      "amountPerChunk": 1.7,
       "enable": true,
       "generators": {}
-    },
-    "bushes": {
-      "with": {
-        "block": "biomesoplenty:plant_0",
-        "properties": {
-          "variant": "bush"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 0.2,
-      "enable": true
     },
     "blue_milk_caps": {
       "with": {
@@ -250,35 +217,16 @@
           "variant": "blue_milk_cap"
         }
       },
-      "generationAttempts": 32,
+      "generationAttempts": 16,
       "amountPerChunk": 0.1,
       "enable": true
-    },
-    "double_cattail": {
-      "with": {
-        "block": "biomesoplenty:double_plant",
-        "properties": {
-          "half": "lower",
-          "variant": "tall_cattail"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 1.0,
-      "enable": true,
-      "withTop": {
-        "block": "biomesoplenty:double_plant",
-        "properties": {
-          "half": "upper",
-          "variant": "tall_cattail"
-        }
-      }
     },
     "red_mushrooms": {
       "with": {
         "block": "minecraft:red_mushroom",
         "properties": {}
       },
-      "generationAttempts": 32,
+      "generationAttempts": 16,
       "amountPerChunk": 0.1,
       "enable": true
     },
@@ -289,7 +237,7 @@
           "variant": "flat_mushroom"
         }
       },
-      "generationAttempts": 32,
+      "generationAttempts": 16,
       "amountPerChunk": 0.1,
       "enable": true
     }

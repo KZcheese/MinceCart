@@ -78,7 +78,7 @@
         "block": "minecraft:brown_mushroom",
         "properties": {}
       },
-      "generationAttempts": 32,
+      "generationAttempts": 16,
       "amountPerChunk": 0.5,
       "enable": true
     },
@@ -255,7 +255,7 @@
         "block": "minecraft:red_mushroom",
         "properties": {}
       },
-      "generationAttempts": 32,
+      "generationAttempts": 16,
       "amountPerChunk": 0.3,
       "enable": true
     },
@@ -277,7 +277,7 @@
           "variant": "flat_mushroom"
         }
       },
-      "generationAttempts": 32,
+      "generationAttempts": 16,
       "amountPerChunk": 0.1,
       "enable": true
     }

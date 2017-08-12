@@ -55,7 +55,7 @@
         "block": "minecraft:brown_mushroom",
         "properties": {}
       },
-      "generationAttempts": 32,
+      "generationAttempts": 16,
       "amountPerChunk": 1.0,
       "enable": true
     },
@@ -69,7 +69,7 @@
         "block": "minecraft:red_mushroom",
         "properties": {}
       },
-      "generationAttempts": 32,
+      "generationAttempts": 16,
       "amountPerChunk": 2.0,
       "enable": true
     },
@@ -102,7 +102,7 @@
           "variant": "flat_mushroom"
         }
       },
-      "generationAttempts": 32,
+      "generationAttempts": 16,
       "amountPerChunk": 0.5,
       "enable": true
     },
@@ -113,7 +113,7 @@
           "variant": "toadstool"
         }
       },
-      "generationAttempts": 32,
+      "generationAttempts": 16,
       "amountPerChunk": 1.5,
       "enable": true
     }

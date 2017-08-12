@@ -23,19 +23,8 @@
       "amountPerChunk": 0.3,
       "enable": true
     },
-    "cattail": {
-      "with": {
-        "block": "biomesoplenty:plant_1",
-        "properties": {
-          "variant": "cattail"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 2.0,
-      "enable": true
-    },
     "flowers": {
-      "amountPerChunk": 0.3,
+      "amountPerChunk": 0.2,
       "enable": true,
       "generators": {}
     },
@@ -69,7 +58,7 @@
         }
       },
       "generationAttempts": 128,
-      "amountPerChunk": 0.2,
+      "amountPerChunk": 0.152,
       "enable": true
     },
     "shrubs": {
@@ -133,7 +122,7 @@
           "variant": "toadstool"
         }
       },
-      "generationAttempts": 32,
+      "generationAttempts": 16,
       "amountPerChunk": 0.2,
       "enable": true
     },
@@ -168,7 +157,7 @@
       }
     },
     "grass": {
-      "amountPerChunk": 0.3,
+      "amountPerChunk": 0.2,
       "enable": true,
       "generators": {}
     },
@@ -190,28 +179,9 @@
           "variant": "blue_milk_cap"
         }
       },
-      "generationAttempts": 32,
+      "generationAttempts": 16,
       "amountPerChunk": 0.1,
       "enable": true
-    },
-    "double_cattail": {
-      "with": {
-        "block": "biomesoplenty:double_plant",
-        "properties": {
-          "half": "lower",
-          "variant": "tall_cattail"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 1.0,
-      "enable": true,
-      "withTop": {
-        "block": "biomesoplenty:double_plant",
-        "properties": {
-          "half": "upper",
-          "variant": "tall_cattail"
-        }
-      }
     },
     "sprouts": {
       "with": {
@@ -221,7 +191,7 @@
         }
       },
       "generationAttempts": 32,
-      "amountPerChunk": 0.3,
+      "amountPerChunk": 0.2,
       "enable": true
     }
   }

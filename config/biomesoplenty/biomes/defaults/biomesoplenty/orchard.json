@@ -122,17 +122,6 @@
       "amountPerChunk": 1.0,
       "enable": true
     },
-    "portobellos": {
-      "with": {
-        "block": "biomesoplenty:mushroom",
-        "properties": {
-          "variant": "portobello"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 0.2,
-      "enable": true
-    },
     "flax": {
       "with": {
         "block": "biomesoplenty:double_plant",

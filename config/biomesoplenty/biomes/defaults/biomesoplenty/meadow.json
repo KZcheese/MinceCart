@@ -42,17 +42,6 @@
       "amountPerChunk": 1.5,
       "enable": true
     },
-    "cattail": {
-      "with": {
-        "block": "biomesoplenty:plant_1",
-        "properties": {
-          "variant": "cattail"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 2.0,
-      "enable": true
-    },
     "flowers": {
       "amountPerChunk": 0.5,
       "enable": true,
@@ -77,7 +66,7 @@
         }
       },
       "generationAttempts": 32,
-      "amountPerChunk": 0.25,
+      "amountPerChunk": 0.15,
       "enable": true
     },
     "clover_patches": {
@@ -126,7 +115,7 @@
         }
       },
       "generationAttempts": 32,
-      "amountPerChunk": 1.0,
+      "amountPerChunk": 0.5,
       "enable": true
     },
     "roots": {
@@ -164,7 +153,7 @@
         }
       },
       "generationAttempts": 32,
-      "amountPerChunk": 0.25,
+      "amountPerChunk": 0.15,
       "enable": true
     },
     "flower_lily": {
@@ -175,7 +164,7 @@
         }
       },
       "generationAttempts": 32,
-      "amountPerChunk": 0.25,
+      "amountPerChunk": 0.15,
       "enable": true
     },
     "sand": {
@@ -242,27 +231,8 @@
         "properties": {}
       },
       "generationAttempts": 32,
-      "amountPerChunk": 0.25,
+      "amountPerChunk": 0.15,
       "enable": true
-    },
-    "double_cattail": {
-      "with": {
-        "block": "biomesoplenty:double_plant",
-        "properties": {
-          "half": "lower",
-          "variant": "tall_cattail"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 1.0,
-      "enable": true,
-      "withTop": {
-        "block": "biomesoplenty:double_plant",
-        "properties": {
-          "half": "upper",
-          "variant": "tall_cattail"
-        }
-      }
     },
     "tiny_lily": {
       "with": {
@@ -272,7 +242,7 @@
         }
       },
       "generationAttempts": 32,
-      "amountPerChunk": 0.25,
+      "amountPerChunk": 0.15,
       "enable": true
     },
     "sprouts": {

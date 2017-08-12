@@ -19,8 +19,8 @@
           "variant": "tinycactus"
         }
       },
-      "generationAttempts": 32,
-      "amountPerChunk": 0.3,
+      "generationAttempts": 16,
+      "amountPerChunk": 0.25,
       "enable": true
     },
     "miners_delight": {

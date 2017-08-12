@@ -43,17 +43,6 @@
       "enable": true,
       "randomDirection": true
     },
-    "blue_milk_caps": {
-      "with": {
-        "block": "biomesoplenty:mushroom",
-        "properties": {
-          "variant": "blue_milk_cap"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 0.1,
-      "enable": true
-    },
     "amber": {
       "minHeight": 4,
       "with": {
@@ -84,7 +73,7 @@
           "variant": "toadstool"
         }
       },
-      "generationAttempts": 32,
+      "generationAttempts": 16,
       "amountPerChunk": 0.1,
       "enable": true
     }
