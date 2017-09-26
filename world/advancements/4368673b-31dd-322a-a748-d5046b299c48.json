@@ -682,6 +682,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "visceral_heap": "2017-09-02 21:00:44 -0400",
+      "corrupted_sands": "2017-09-07 22:22:33 -0400",
       "undergarden": "2017-08-27 22:21:49 -0400"
     },
     "done": false
@@ -910,15 +911,21 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2017-09-07 22:22:54 -0400",
+      "zombie_villager": "2017-09-07 20:20:06 -0400",
       "magma_cube": "2017-09-02 21:03:14 -0400",
       "slime": "2017-08-31 21:59:12 -0400",
       "skeleton": "2017-08-28 22:41:44 -0400",
       "blaze": "2017-08-27 22:20:57 -0400",
       "zombie": "2017-08-28 22:41:39 -0400",
       "silverfish": "2017-08-30 20:01:36 -0400",
+      "cave_spider": "2017-09-17 00:42:35 -0400",
+      "witch": "2017-09-07 20:21:56 -0400",
+      "guardian": "2017-09-05 20:20:59 -0400",
       "spider": "2017-08-28 22:58:16 -0400",
       "ghast": "2017-09-02 21:12:23 -0400",
-      "creeper": "2017-08-28 22:41:59 -0400"
+      "creeper": "2017-08-28 22:41:59 -0400",
+      "enderman": "2017-09-04 22:12:32 -0400"
     },
     "done": false
   },
@@ -2419,8 +2426,10 @@
     "criteria": {
       "cooked_porkchop": "2017-09-02 20:12:03 -0400",
       "apple": "2017-08-30 21:44:03 -0400",
+      "rotten_flesh": "2017-09-17 00:47:07 -0400",
       "raw_cod": "2017-09-03 22:36:57 -0400",
-      "mushroom_stew": "2017-08-28 22:40:33 -0400"
+      "mushroom_stew": "2017-08-28 22:40:33 -0400",
+      "carrot": "2017-09-10 00:32:17 -0400"
     },
     "done": false
   },
@@ -3452,6 +3461,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2017-08-27 14:10:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2017-09-07 21:18:46 -0400"
     },
     "done": true
   },
