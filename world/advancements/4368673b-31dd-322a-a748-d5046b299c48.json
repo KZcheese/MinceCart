@@ -681,8 +681,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "phantasmagoric_inferno": "2017-10-12 19:07:26 -0400",
       "visceral_heap": "2017-09-02 21:00:44 -0400",
       "corrupted_sands": "2017-09-07 22:22:33 -0400",
+      "fungi_forest": "2017-10-01 00:34:57 -0400",
       "undergarden": "2017-08-27 22:21:49 -0400"
     },
     "done": false
@@ -1529,6 +1531,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2017-09-29 23:08:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2017-08-27 14:10:35 -0400"
@@ -1960,12 +1968,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_the_recipe": "2017-08-27 14:10:35 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_the_recipe": "2017-08-27 14:10:35 -0400"
@@ -2230,12 +2232,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_the_recipe": "2017-08-27 14:10:35 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2017-08-27 14:10:35 -0400"
@@ -2387,12 +2383,6 @@
     "done": true
   },
   "biomesoplenty:recipes/buildingblocks/palm_wooden_slab": {
-    "criteria": {
-      "has_the_recipe": "2017-08-27 14:10:35 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_the_recipe": "2017-08-27 14:10:35 -0400"
     },
@@ -2684,12 +2674,6 @@
     "done": true
   },
   "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_the_recipe": "2017-08-27 14:10:35 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_the_recipe": "2017-08-27 14:10:35 -0400"
     },
@@ -3034,6 +3018,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2017-08-28 23:46:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2017-09-29 22:45:02 -0400"
     },
     "done": true
   },
@@ -3711,12 +3701,6 @@
     "done": true
   },
   "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_the_recipe": "2017-08-27 14:10:35 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_the_recipe": "2017-08-27 14:10:35 -0400"
     },

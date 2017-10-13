@@ -1971,12 +1971,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_the_recipe": "2017-08-12 15:52:58 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_the_recipe": "2017-08-12 15:52:58 -0400"
@@ -2241,12 +2235,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_the_recipe": "2017-08-12 15:52:58 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2017-08-12 15:52:58 -0400"
@@ -2403,12 +2391,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_the_recipe": "2017-08-12 15:52:58 -0400"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/misc/pink_dye_from_pink_hibiscus": {
     "criteria": {
       "has_the_recipe": "2017-08-12 15:52:58 -0400"
@@ -2446,6 +2428,7 @@
       "pumpkin_pie": "2017-08-15 11:32:23 -0400",
       "raw_salmon": "2017-08-16 08:47:59 -0400",
       "bread": "2017-08-13 20:45:34 -0400",
+      "cookie": "2017-09-30 23:24:55 -0400",
       "raw_cod": "2017-08-14 09:00:50 -0400",
       "beetroot": "2017-08-14 20:37:06 -0400",
       "cooked_chicken": "2017-08-14 20:48:02 -0400",
@@ -2708,12 +2691,6 @@
     "done": true
   },
   "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_the_recipe": "2017-08-12 15:52:58 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_the_recipe": "2017-08-12 15:52:58 -0400"
     },
@@ -3753,12 +3730,6 @@
     "done": true
   },
   "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_the_recipe": "2017-08-12 15:52:58 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_the_recipe": "2017-08-12 15:52:58 -0400"
     },
