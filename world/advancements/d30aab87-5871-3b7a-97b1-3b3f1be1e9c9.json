@@ -676,7 +676,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "visceral_heap": "2017-08-18 22:27:26 -0400"
+      "visceral_heap": "2017-08-18 22:27:26 -0400",
+      "corrupted_sands": "2017-10-27 20:33:43 -0400",
+      "undergarden": "2017-10-27 20:33:44 -0400"
     },
     "done": false
   },
@@ -898,7 +900,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "zombie_pigman": "2017-08-13 21:17:03 -0400"
+      "zombie_pigman": "2017-08-13 21:17:03 -0400",
+      "zombie": "2017-10-27 20:53:06 -0400"
     },
     "done": false
   },
@@ -1274,6 +1277,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2017-10-27 20:59:20 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/wooden_pressure_plate_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2017-08-11 20:03:50 -0400"
@@ -1601,9 +1610,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2017-08-13 18:07:39 -0400",
+      "birch_forest": "2017-10-27 20:41:00 -0400",
       "deep_ocean": "2017-09-06 23:28:41 -0400",
       "beaches": "2017-08-12 16:01:52 -0400",
       "extreme_hills_with_trees": "2017-08-18 22:27:01 -0400",
+      "mesa": "2017-10-27 20:34:28 -0400",
       "forest_hills": "2017-08-13 18:07:54 -0400",
       "plains": "2017-08-13 21:01:44 -0400",
       "taiga": "2017-08-18 21:40:29 -0400",
