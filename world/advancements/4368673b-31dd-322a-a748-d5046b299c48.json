@@ -259,6 +259,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2017-11-13 20:55:04 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/palm_fence_gate": {
     "criteria": {
       "has_the_recipe": "2017-08-27 14:10:35 -0400"
@@ -914,6 +920,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2017-09-07 22:22:54 -0400",
+      "wither_skeleton": "2017-11-13 20:09:19 -0500",
       "zombie_villager": "2017-09-07 20:20:06 -0400",
       "magma_cube": "2017-09-02 21:03:14 -0400",
       "slime": "2017-08-31 21:59:12 -0400",
@@ -2172,6 +2179,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2017-11-13 21:20:36 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_the_recipe": "2017-08-27 14:10:35 -0400"
@@ -2559,6 +2572,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_the_recipe": "2017-08-27 14:10:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2017-11-13 20:37:48 -0500"
     },
     "done": true
   },
@@ -3154,6 +3173,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/flesh_and_blood": {
+    "criteria": {
+      "flesh": "2017-11-13 20:55:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_the_recipe": "2017-08-27 14:10:35 -0400"
@@ -3163,6 +3188,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_the_recipe": "2017-08-27 14:10:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2017-11-13 20:04:44 -0500"
     },
     "done": true
   },

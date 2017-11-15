@@ -659,6 +659,13 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2017-10-27 22:48:01 -0400",
+      "iron_helmet": "2017-10-27 22:48:01 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
@@ -670,6 +677,13 @@
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "corrupted_sands": "2017-10-27 22:21:37 -0400",
+      "undergarden": "2017-10-27 22:21:38 -0400"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
@@ -809,6 +823,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2017-10-27 22:29:41 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/white_wool_from_cattails": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
@@ -874,6 +894,18 @@
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "shulker": "2017-11-11 00:38:09 -0500",
+      "zombie_villager": "2017-10-28 00:08:09 -0400",
+      "skeleton": "2017-10-27 22:29:41 -0400",
+      "zombie": "2017-10-27 22:30:09 -0400",
+      "spider": "2017-10-27 22:34:47 -0400",
+      "creeper": "2017-10-27 22:30:26 -0400",
+      "enderman": "2017-11-10 23:58:33 -0500"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
@@ -1025,6 +1057,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2017-11-10 23:53:10 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
@@ -1082,6 +1120,12 @@
   "biomesoplenty:recipes/redstone/eucalyptus_door": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2017-11-10 23:57:04 -0500"
     },
     "done": true
   },
@@ -1244,6 +1288,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2017-10-27 22:45:04 -0400"
     },
     "done": true
   },
@@ -1445,6 +1495,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2017-10-27 22:07:39 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
@@ -1517,6 +1573,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "skeleton": "2017-10-27 22:29:41 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
@@ -1562,9 +1624,18 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2017-09-10 00:01:41 -0400",
+      "birch_forest": "2017-10-27 22:26:52 -0400",
+      "beaches": "2017-10-27 22:22:31 -0400",
+      "desert_hills": "2017-10-28 00:28:05 -0400",
+      "mesa": "2017-10-27 22:22:35 -0400",
       "forest_hills": "2017-09-10 00:02:48 -0400",
       "plains": "2017-09-10 00:02:43 -0400",
-      "river": "2017-09-10 00:06:05 -0400"
+      "taiga": "2017-10-27 22:04:53 -0400",
+      "extreme_hills": "2017-11-10 22:14:10 -0500",
+      "roofed_forest": "2017-10-27 22:59:05 -0400",
+      "river": "2017-09-10 00:06:05 -0400",
+      "desert": "2017-10-28 00:28:00 -0400",
+      "stone_beach": "2017-11-10 22:12:26 -0500"
     },
     "done": false
   },
@@ -1838,12 +1909,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_the_recipe": "2017-09-10 00:01:41 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
@@ -2066,6 +2131,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2017-10-27 22:20:05 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/sign_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
@@ -2097,12 +2168,6 @@
     "done": true
   },
   "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_the_recipe": "2017-09-10 00:01:41 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
     },
@@ -2264,12 +2329,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_the_recipe": "2017-09-10 00:01:41 -0400"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/misc/pink_dye_from_pink_hibiscus": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
@@ -2293,6 +2352,13 @@
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2017-10-27 23:30:50 -0400",
+      "carrot": "2017-10-27 22:28:41 -0400"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -2492,6 +2558,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2017-10-27 22:30:02 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/lime_dye_from_glowshroom": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
@@ -2529,12 +2601,6 @@
     "done": true
   },
   "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_the_recipe": "2017-09-10 00:01:41 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
     },
@@ -2585,6 +2651,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2017-10-27 22:28:37 -0400"
     },
     "done": true
   },
@@ -2762,6 +2834,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2017-10-27 22:20:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
@@ -2855,6 +2933,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2017-11-10 23:56:49 -0500"
     },
     "done": true
   },
@@ -3254,6 +3338,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2017-10-27 22:31:09 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
@@ -3269,6 +3359,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2017-11-11 00:37:17 -0500"
     },
     "done": true
   },
@@ -3293,6 +3389,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2017-11-11 00:15:13 -0500"
     },
     "done": true
   },
@@ -3464,6 +3566,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2017-10-28 00:20:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
@@ -3501,12 +3609,6 @@
     "done": true
   },
   "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_the_recipe": "2017-09-10 00:01:41 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
     },
@@ -3551,6 +3653,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2017-11-10 23:57:04 -0500"
     },
     "done": true
   },
@@ -3701,6 +3809,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2017-10-27 22:18:46 -0400"
     },
     "done": true
   },
