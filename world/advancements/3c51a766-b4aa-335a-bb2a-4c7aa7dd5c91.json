@@ -1890,6 +1890,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2017-11-19 01:32:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_the_recipe": "2017-08-12 15:52:58 -0400"
@@ -2452,6 +2458,7 @@
       "bread": "2017-08-13 20:45:34 -0400",
       "golden_apple": "2017-11-02 15:25:41 -0400",
       "cookie": "2017-09-30 23:24:55 -0400",
+      "rotten_flesh": "2017-11-19 01:22:25 -0500",
       "raw_cod": "2017-08-14 09:00:50 -0400",
       "beetroot": "2017-08-14 20:37:06 -0400",
       "cooked_chicken": "2017-08-14 20:48:02 -0400",
