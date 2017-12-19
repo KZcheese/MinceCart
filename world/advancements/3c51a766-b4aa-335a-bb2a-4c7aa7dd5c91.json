@@ -521,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2017-12-14 17:30:37 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/ominous_terrarium": {
     "criteria": {
       "has_the_recipe": "2017-08-12 15:52:58 -0400"
@@ -1242,6 +1248,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2017-08-12 15:52:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2017-12-15 18:48:15 -0500"
     },
     "done": true
   },
@@ -2363,6 +2375,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2017-12-16 11:45:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "has_the_recipe": "2017-08-12 15:52:58 -0400"
@@ -2408,6 +2426,12 @@
   "biomesoplenty:recipes/redstone/jacaranda_door": {
     "criteria": {
       "has_the_recipe": "2017-08-12 15:52:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2017-12-14 23:01:39 -0500"
     },
     "done": true
   },
@@ -2659,6 +2683,7 @@
       "bred_chicken": "2017-08-15 10:14:15 -0400",
       "bred_sheep": "2017-09-25 00:46:17 -0400",
       "bred_llama": "2017-08-15 22:47:34 -0400",
+      "bred_rabbit": "2017-12-18 14:34:42 -0500",
       "bred_cow": "2017-08-14 19:09:31 -0400",
       "bred_horse": "2017-08-15 08:12:40 -0400",
       "bred_mooshroom": "2017-08-14 19:09:41 -0400",

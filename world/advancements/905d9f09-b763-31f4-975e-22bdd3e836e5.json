@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2017-12-14 21:22:52 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/palm_fence_gate": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
@@ -680,6 +686,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "phantasmagoric_inferno": "2017-12-14 22:48:44 -0500",
       "corrupted_sands": "2017-10-27 22:21:37 -0400",
       "undergarden": "2017-10-27 22:21:38 -0400"
     },
@@ -901,6 +908,7 @@
       "zombie_villager": "2017-10-28 00:08:09 -0400",
       "skeleton": "2017-10-27 22:29:41 -0400",
       "zombie": "2017-10-27 22:30:09 -0400",
+      "witch": "2017-12-14 23:57:28 -0500",
       "spider": "2017-10-27 22:34:47 -0400",
       "creeper": "2017-10-27 22:30:26 -0400",
       "enderman": "2017-11-10 23:58:33 -0500"
@@ -1267,6 +1275,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/terrestrial_artifact": {
+    "criteria": {
+      "emerald": "2017-12-15 01:10:42 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
@@ -1625,12 +1639,16 @@
     "criteria": {
       "forest": "2017-09-10 00:01:41 -0400",
       "birch_forest": "2017-10-27 22:26:52 -0400",
+      "deep_ocean": "2017-12-14 23:11:11 -0500",
       "beaches": "2017-10-27 22:22:31 -0400",
+      "extreme_hills_with_trees": "2017-12-14 22:53:34 -0500",
       "desert_hills": "2017-10-28 00:28:05 -0400",
       "mesa": "2017-10-27 22:22:35 -0400",
       "forest_hills": "2017-09-10 00:02:48 -0400",
       "plains": "2017-09-10 00:02:43 -0400",
       "taiga": "2017-10-27 22:04:53 -0400",
+      "taiga_hills": "2017-12-14 23:11:56 -0500",
+      "ocean": "2017-12-14 22:53:32 -0500",
       "extreme_hills": "2017-11-10 22:14:10 -0500",
       "roofed_forest": "2017-10-27 22:59:05 -0400",
       "river": "2017-09-10 00:06:05 -0400",
@@ -2317,6 +2335,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2017-12-14 23:01:39 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/magic_stairs": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
@@ -2533,6 +2557,12 @@
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_sheep": "2017-12-15 01:18:30 -0500"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/redstone/ebony_fence_gate": {
     "criteria": {
@@ -2843,6 +2873,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2017-12-15 01:10:41 -0500"
     },
     "done": true
   },
@@ -3326,6 +3362,13 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "yellow_flower": "2017-12-14 22:42:27 -0500",
+      "red_flower": "2017-12-14 22:42:27 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
@@ -3689,6 +3732,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_the_recipe": "2017-09-10 00:01:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_sheep": "2017-12-15 01:18:30 -0500"
     },
     "done": true
   },
