@@ -1853,12 +1853,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_the_recipe": "2017-08-13 17:30:48 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_the_recipe": "2017-08-13 17:30:48 -0400"
@@ -2117,12 +2111,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_the_recipe": "2017-08-13 17:30:48 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2017-08-13 17:30:48 -0400"
@@ -2274,12 +2262,6 @@
     "done": true
   },
   "biomesoplenty:recipes/buildingblocks/palm_wooden_slab": {
-    "criteria": {
-      "has_the_recipe": "2017-08-13 17:30:48 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_the_recipe": "2017-08-13 17:30:48 -0400"
     },
@@ -2550,12 +2532,6 @@
     "done": true
   },
   "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_the_recipe": "2017-08-13 17:30:48 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_the_recipe": "2017-08-13 17:30:48 -0400"
     },
@@ -3534,12 +3510,6 @@
     "done": true
   },
   "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_the_recipe": "2017-08-13 17:30:48 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_the_recipe": "2017-08-13 17:30:48 -0400"
     },
